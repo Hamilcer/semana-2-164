@@ -9,7 +9,7 @@
             </ul>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="../assets/img/dominio.jpg" alt="" width=auto height=auto>
+                <img src="../../public/img/dominio.jpg" alt="" width=auto height=auto>
                 <div class="carousel-caption"> 
                   <h4>Dominio Web</h4>
                   <p>Un servidor de dominio es aquel capaz de proporcionar un nombre o una identidad única en la Web.</p>                    
@@ -17,7 +17,7 @@
             </div>
               </div>
               <div class="carousel-item">
-                <img src="../assets/img/hosting.jpg" alt="" width=auto height=auto>
+                <img src="../../public/img/hosting.jpg" alt="" width=auto height=auto>
                 <div class="carousel-caption">
                   <h4>Servicio de Hosting</h4>
                   <p>Este servicio provee a los usuarios de Internet un sistema para poder almacenar información,
@@ -26,7 +26,7 @@
                 </div>  
               </div>
               <div class="carousel-item">
-                <img src="../assets/img/servicioweb.jpg" alt="" width=auto height=auto>
+                <img src="../../public/img/servicioweb.jpg" alt="" width=auto height=auto>
                 <div class="carousel-caption">
                   <h4>Servicio Web</h4>
                   <p>Los servicios web son aplicaciones autónomas modulares que se pueden describir, publicar, localizar e invocar a través de una red".</p>                      

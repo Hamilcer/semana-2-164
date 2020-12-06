@@ -16,9 +16,9 @@
                         para enfrentar los desafíos de la Cuarta Revolución Industrial.</p>
                         <h6><em>Siguenos en:</em></h6>
                         <div class="icono">
-                            <a  href="http://instagram.com" target="_blank"><img src="../assets/img/instagram.png" width="35" height="35"/></a> &nbsp;
-                            <a  href="http://facebook.com" target="_blank"><img src="../assets/img/facebook.png"  width="35" height="35" /></a> &nbsp;
-                            <a  href="http://youtube.com" target="_blank"><img src="../assets/img/youtube.png"  width="35" height="35" /></a>
+                            <a  href="http://instagram.com" target="_blank"><img src="../../public/img/instagram.png" width="35" height="35"/></a> &nbsp;
+                            <a  href="http://facebook.com" target="_blank"><img src="../../public/img/facebook.png"  width="35" height="35" /></a> &nbsp;
+                            <a  href="http://youtube.com" target="_blank"><img src="../../public/img/youtube.png"  width="35" height="35" /></a>
                         </div>
                 </div>
 

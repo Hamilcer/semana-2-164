@@ -1,7 +1,7 @@
 <template>
     <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
             <a class="navbar-brand" href="#">
-                <img src="../assets/img/icon.png" width="30 " height="30"
+                <img src="../../public/img/icon.png" width="30 " height="30"
                      class="d-inline-block align-top " alt=" " loading="lazy">
                     Proyecto Sprint 2</a>
 
