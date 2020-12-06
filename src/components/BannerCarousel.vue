@@ -54,3 +54,30 @@ import TopMenu from './TopMenu..vue';
         }
  };
 </script>
+
+<style>
+/*Responsive para texto*/
+p{
+    font-size: 3vh;
+}
+h2{
+    font-size: 0.1vh;
+}
+/*Estilos del Carousel Bootstrap*/
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+    }
+.carousel-caption {
+    position: absolute; 
+    right: 15%;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5); /* Añadir para conseguir el fondo con opacidad */
+    }
+/*Fin de estilos del Carousel Bootstrap*/
+</style>
